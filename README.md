@@ -2,7 +2,7 @@
 By Ivan Jonathan Hoo
 
 # Description
-An implementation of the pig dice game with GUI created using C++ and Qt (with QtCreator IDE). There are 1-player (against computer) and 2-player modes.  
+An implementation of the pig dice game with GUI created using C++ and Qt (with QtCreator IDE). I have implemented 2 modes of the game, 1-player mode (against computer) and 2-player mode.  
 More info about pig game can be found in https://en.wikipedia.org/wiki/Pig_(dice_game)
 
 # To play the game
