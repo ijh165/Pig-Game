@@ -1,5 +1,5 @@
-//  Created by Ivan-kun165
-//  Copyright (c) 2015 Ivan-kun165. All rights reserved.
+//  Created by Ivan Jonathan Hoo
+//  Copyright (c) 2015 Ivan Jonathan Hoo. All rights reserved.
 
 #include "gameofpig.h"
 #include "ui_gameofpig.h"
