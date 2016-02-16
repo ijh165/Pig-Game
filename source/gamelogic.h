@@ -1,7 +1,7 @@
 #ifndef GAMELOGIC_H
 #define GAMELOGIC_H
 
-#include <cstdlib>
+#include <QtGlobal>
 
 //define rolling bools
 #define PLAYER_ROLL_ONE false

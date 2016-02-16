@@ -63,7 +63,7 @@ void GameLogic::init() //to be used by constructor and also in when new game sta
 
 int GameLogic::roll()
 {
-    return (rand()%6 + 1);
+    return (qrand()%6 + 1);
 }
 
 void GameLogic::P1hold()

@@ -1,11 +1,10 @@
 #include "gameofpig.h"
 #include <QApplication>
-
 #include <ctime>
 
 int main(int argc, char *argv[])
 {
-    srand(time(NULL));
+    qsrand(time(NULL));
 
     QApplication a(argc, argv);
     GameOfPig w;

@@ -4,7 +4,7 @@
 #
 #-------------------------------------------------
 
-QT       += core gui
+QT      += core gui
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
@@ -14,9 +14,9 @@ TEMPLATE = app
 
 SOURCES += main.cpp\
         gameofpig.cpp \
-    gamelogic.cpp
+        gamelogic.cpp
 
-HEADERS  += gameofpig.h \
-    gamelogic.h
+HEADERS += gameofpig.h \
+        gamelogic.h
 
-FORMS    += gameofpig.ui
+FORMS   += gameofpig.ui
